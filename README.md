@@ -1,4 +1,5 @@
 # churnsight-ai
+
 <div align="center">
 
 ![ChurnSight AI](https://img.shields.io/badge/ChurnSight-AI-58A6FF?style=for-the-badge&logo=python&logoColor=white)
